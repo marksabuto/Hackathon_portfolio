@@ -1,6 +1,6 @@
 # Marks Abuto - Portfolio Website
 
-![Portfolio Screenshot](\assets\images\portfolio.jpg) 
+![Portfolio Screenshot](assets/images/portfolio.jpg) 
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional information. Built with pure HTML and CSS for optimal performance.
 
