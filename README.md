@@ -30,24 +30,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 No installation required - this is a static website. Simply open `index.html` in any modern browser.
 
-For local development:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/marksabuto/portfolio.git
-
-
-Project Structure
-portfolio/
-├── index.html          # Main HTML file
-├── assets/
-│   ├── css/            # CSS files
-│   ├── images/         # Project images
-│   └── fonts/          # Custom fonts (if any)
-├── README.md           # This file
-└── screenshot.png      # Project screenshot
-
-
 Connect with me:
 
 GitHub: https://github.com/marksabuto
