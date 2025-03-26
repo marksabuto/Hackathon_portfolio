@@ -36,15 +36,14 @@ For local development:
    ```bash
    git clone https://github.com/marksabuto/portfolio.git
 
-Open index.html in your browser
 
 Project Structure
-Copy
 portfolio/
 ├── index.html          # Main HTML file
 ├── assets/
 │   ├── css/            # CSS files
 │   ├── images/         # Project images
+│   └── fonts/          # Custom fonts (if any)
 ├── README.md           # This file
 └── screenshot.png      # Project screenshot
 
